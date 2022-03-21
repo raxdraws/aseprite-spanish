@@ -1,10 +1,10 @@
 # Aseprite en Español Latino 2.0
 
-##Pagina Oficial del Programa
+## Pagina Oficial del Programa
 
 [Aseprite](https://www.aseprite.org/)
 
-#Proyecto de GitHub de Aseprite
+# Proyecto de GitHub de Aseprite
 
 [Aseprite](https://github.com/aseprite/aseprite)
 

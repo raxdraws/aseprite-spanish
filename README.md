@@ -2,11 +2,11 @@
 
 ## Pagina Oficial del Programa
 
-[Aseprite](https://www.aseprite.org/)
+[Pagina Oficial](https://www.aseprite.org/)
 
-# Proyecto de GitHub de Aseprite
+## Proyecto de GitHub de Aseprite
 
-[Aseprite](https://github.com/aseprite/aseprite)
+[Aseprite en GitHub](https://github.com/aseprite/aseprite)
 
 ## Descargar la Extensión
 

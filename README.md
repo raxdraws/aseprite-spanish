@@ -1,22 +1,28 @@
-# Aseprite en Español
+# Aseprite en Español Latino 2.0
 
-Traducción de [Aseprite](https://github.com/aseprite/aseprite) en Español
+##Pagina Oficial del Programa
+
+[Aseprite](https://www.aseprite.org/)
+
+#Proyecto de GitHub de Aseprite
+
+[Aseprite](https://github.com/aseprite/aseprite)
 
 ## Descargar la Extensión
 
 ### v0.1.0
-Descargar la Extensión Compilada: [Aseprite Spanish v0.1.0](https://github.com/Latirus/aseprite-spanish/releases/download/v0.1.0/aseprite-spanish-v0.1.0.aseprite-extension)
+Descargar la Extensión Compilada hecha por iFeddy: [Aseprite Spanish v0.1.0](https://github.com/Latirus/aseprite-spanish/releases/download/v0.1.0/aseprite-spanish-v0.1.0.aseprite-extension)
 
 ### v0.2.0
-¡Actualizado a la version 1.2.34-1 de Aseprite! [Aseprite Spanish v0.2.0](https://github.com/raxdraws/aseprite-spanish/releases/tag/v0.2.0)
+¡Actualizado a la version 1.2.34-1 de Aseprite, hecho por raxdraws! [Aseprite Spanish v0.2.0](https://github.com/raxdraws/aseprite-spanish/releases/tag/v0.2.0)
 
-### Básica 
-Para instalarlo, descargar el archivo .aseprite-extension en la página de Releases de este Repositorio. https://github.com/Latirus/aseprite-spanish/releases 
+### Primero lo Primero... 
+Descarga la extension "aseprite-spanish-v0.2.0.aseprite-extension" en este link [Pagina de Descarga](https://github.com/raxdraws/aseprite-spanish/releases/tag/v0.2.0)
 
 #
 
-### Compilando
-Clonar este repositorio y ejecutar con Powershell el archivo ubicado en la siguiente carpeta:
+### Compila el archivo
+Clona este repositorio y ejecuta con Powershell el archivo ubicado en la siguiente carpeta dentro de repositorio:
 
 ```bash
 .\src\export.ps1
@@ -24,7 +30,7 @@ Clonar este repositorio y ejecutar con Powershell el archivo ubicado en la sigui
 
 Es necesario contar con PowerShell v5+. Si usas VSCode, con F5 se puede compilar.
 
-Automáticamente se crea la extensión en la siguiente carpeta:
+Espera unos segundos y el archivo se creara con la extensión .aseprite-extension, en la siguiente carpeta:
 
 ```bash
 .\dist\aseprite-spanish-vXXX.aseprite-extension
@@ -34,26 +40,26 @@ Automáticamente se crea la extensión en la siguiente carpeta:
 
 ## Instalación de la Extensión
 
-Para instalar la Extensión darle doble click al archivo exportado o abrir el archivo desde Aseprite desde el menu de Preferencias.
+1. Abre el Aseprite
 
 ```
-Edit -> Preferences (Ctrl + K) -> Extensions -> Add Extension 
+2. Edit / Editar -> Preferences / Preferencias (Ctrl + K) -> Extensions / Extensiones -> Add Extension / Agregar Extension
 ```
 
-Luego, en Preferences (Ctrl + K) / General cambiar Language a:
+Luego, en Preferences / Preferencias (Ctrl + K) -> General, cambia el idioma / Language por:
 
 ```
 es
 ```
 
-Es necesario **Reiniciar** el programa para que se apliquen los cambios.
+Reinicia el Programa cerrandolo y abriendolo... ¡Y DISFRUTALO!
 
 ## Contribuir
 
-¡Gracias por considerar contribuir! Podés clonar este repositorio, modificar el archivo:
+¡Gracias por considerar contribuir! Puedes clonar este repositorio y modificar el archivo:
 
 ```
 .\src\es.ini
 ```
 
-Y enviar un **Pull Request** para generar una versión nueva de la traducción.
+Y enviar un **Pull Request** para generar una version actualizada de la traduccion.

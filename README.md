@@ -10,9 +10,6 @@
 
 ## Descargar la Extensión
 
-### v0.1.0
-Descargar la Extensión Compilada hecha por iFeddy: [Aseprite Spanish v0.1.0](https://github.com/Latirus/aseprite-spanish/releases/download/v0.1.0/aseprite-spanish-v0.1.0.aseprite-extension)
-
 ### v0.2.1
 ¡Actualizado a la version 1.2.34-1 de Aseprite, hecho por raxdraws! (¡y con arreglos y correcciones!) [Aseprite Spanish v0.2.0](https://github.com/raxdraws/aseprite-spanish/releases/tag/v0.2.1)
 

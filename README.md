@@ -1,5 +1,7 @@
 # Aseprite en Español Latino 2.0
 
+EDIT 04-07-2023: El archivo esta siendo actualizado a la version mas reciente 1.3 de Aseprite, ¡denme paciencia! El nuevo archivo .aseprite-extension estara disponible pronto.
+
 ## Pagina Oficial del Programa
 
 [Pagina Oficial](https://www.aseprite.org/)

@@ -1,24 +1,29 @@
 {
-    "name": "aseprite-spanish",
-    "displayName": "Español",
-    "description": "Traducción de Interfaz en Español",
-    "version": "0.2.0",
-    "author": {
-        "name": "Federico Perez",
-        "email": "support@latirus.com",
-        "url": "https://www.latirus.com/"
-    ,
-        "name": "Javier Pizarro",
-        "email": "chilegamer2016.javier@gmail.com",
-        "url": "https://www.twitter.com/rax_draws"
+  "name": "aseprite-spanish",
+  "displayName": "Español",
+  "description": "Traducción de Interfaz en Español",
+  "version": "0.2.0",
+  "contributors": [
+    {
+      "name": "Federico Perez",
+      "email": "support@latirus.com",
+      "url": "https://www.latirus.com/"
     },
-    "categories": [
-        "Languages"
-    ],
-    "contributes": {
-        "languages": [{
-            "id": "es",
-            "path": "./es.ini"
-        }]
+    {
+      "name": "Javier Pizarro",
+      "email": "chilegamer2016.javier@gmail.com",
+      "url": "https://www.twitter.com/rax_draws"
     }
+  ],
+  "categories": [
+    "Languages"
+  ],
+  "contributes": {
+    "languages": [
+      {
+        "id": "es",
+        "path": "./es.ini"
+      }
+    ]
+  }
 }

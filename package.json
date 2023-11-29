@@ -22,7 +22,8 @@
     "languages": [
       {
         "id": "es",
-        "path": "./es.ini"
+        "path": "./es.ini",
+        "displayName": "español"
       }
     ]
   }
